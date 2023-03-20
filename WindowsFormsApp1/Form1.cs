@@ -120,7 +120,22 @@ namespace WindowsFormsApp1
 
         private void Code_Click(object sender, EventArgs e)
         {
-            Process.Start("");
+            Process.Start("https://github.com/xKronos58/FibonacciApplication");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
