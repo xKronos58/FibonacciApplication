@@ -47,7 +47,7 @@ namespace WindowsFormsApp1
         {
             if (File.Exists("C:\\WINDOWS\\System32\\mytestlibGPTSol"))
                 return true;
-            return true;
+            return false;
         }
 
         private void trackBar1_Scroll(object sender, EventArgs e)
